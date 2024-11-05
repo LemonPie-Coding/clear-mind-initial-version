@@ -9,77 +9,34 @@ Características:
 Agendamiento de tareas: Organiza tu día con facilidad, asignando tareas a un calendario y configurando recordatorios.
 Generación de listas de tareas: Crea listas de tareas y procedimientos automáticamente con ayuda de IA.
 Eventos a largo plazo: Planifica eventos y tareas de largo plazo y nunca olvides lo que está por venir.
+
+# Por implementar
 Gamificación por productividad: Sistema que premia tu rendimiento con insignias y recompensas basadas en tu productividad diaria.
 Interfaz personalizable: Cambia los colores de la interfaz para hacerla más acorde a tus preferencias.
 Perfil con insignias: Muestra tus logros y progreso en un perfil personalizable.
 Historial de rendimiento: Lleva un registro de tu rendimiento y crecimiento a lo largo del tiempo.
-Tecnologías utilizadas
+
+
+# Tecnologías utilizadas
 Frontend: React
 Backend: Java SpringBoot
 Base de Datos: MySQL
 Otros: Inteligencia Artificial (IA) para la generación de listas de tareas
-Instalación
-Requisitos previos
-Antes de comenzar, asegúrate de tener instalados los siguientes programas en tu máquina:
 
+# Instalación
+Requisitos previos
 Node.js (LTS)
 pnpm (Administrador de paquetes para Node.js)
 MySQL (Para la base de datos)
 JDK 8 o superior (Para correr el backend en SpringBoot)
 Instalación local
-Clonar el repositorio:
 
-Clona el repositorio a tu máquina local:
-
-bash
-Copiar código
-git clone https://github.com/LemonPie-Coding/clear-mind-initial-version.git
-Instalar las dependencias del frontend:
-
-Navega a la carpeta del frontend y ejecuta:
-
-bash
-Copiar código
-cd frontend
-pnpm install
-Instalar las dependencias del backend:
-
-Navega a la carpeta del backend y ejecuta:
-
-bash
-Copiar código
-cd backend
-pnpm install
-Configurar la base de datos:
-
-Crea una base de datos en MySQL con el nombre clear_mind o el nombre que prefieras.
-Configura las credenciales de acceso en el archivo .env del backend:
-env
-Copiar código
-DB_URL=jdbc:mysql://localhost:3306/clear_mind
-DB_USERNAME=tu_usuario
-DB_PASSWORD=tu_contraseña
-Iniciar la aplicación:
-
-Para el backend (Java SpringBoot):
-bash
-Copiar código
-cd backend
-./mvnw spring-boot:run
-Para el frontend (React):
-bash
-Copiar código
-cd frontend
-pnpm start
-La app estará disponible en tu navegador en http://localhost:3000 para el frontend, y el backend debería estar funcionando en http://localhost:8080 (o el puerto que hayas configurado).
-
-Uso
+# Uso
 Funcionalidades principales:
 Crear tareas y eventos: Agrega tareas o eventos con fechas y recordatorios.
 Interfaz de gamificación: Ve tu progreso y logros dentro de la app, visualiza tus insignias.
 Interfaz personalizable: Cambia los colores del diseño de la aplicación según tus preferencias.
 Generación de listas con IA: Usa la inteligencia artificial para generar listas de tareas y procedimientos, haciendo tu vida mucho más organizada.
-POST
 GET 
 POST
 PUT
