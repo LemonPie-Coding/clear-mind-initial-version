@@ -18,10 +18,10 @@ Historial de rendimiento: Lleva un registro de tu rendimiento y crecimiento a lo
 
 
 # Tecnologías utilizadas
-Frontend: React
-Backend: Java SpringBoot
-Base de Datos: MySQL
-Otros: Inteligencia Artificial (IA) para la generación de listas de tareas
+Frontend: React.
+Backend: Java SpringBoot.
+Base de Datos: MySQL.
+Otros: Inteligencia Artificial (IA) para la generación de listas de tareas.
 
 # Instalación
 Requisitos previos
