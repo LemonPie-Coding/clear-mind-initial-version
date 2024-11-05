@@ -79,23 +79,11 @@ Crear tareas y eventos: Agrega tareas o eventos con fechas y recordatorios.
 Interfaz de gamificación: Ve tu progreso y logros dentro de la app, visualiza tus insignias.
 Interfaz personalizable: Cambia los colores del diseño de la aplicación según tus preferencias.
 Generación de listas con IA: Usa la inteligencia artificial para generar listas de tareas y procedimientos, haciendo tu vida mucho más organizada.
-API de Backend
-A continuación, te dejamos algunos de los endpoints disponibles en la API de backend (en caso de que quieras interactuar directamente con la API):
-
-POST /api/v1/login
-Inicia sesión y devuelve un token para autenticación.
-
-GET /api/v1/tasks
-Obtén la lista de tareas asignadas.
-
-POST /api/v1/tasks
-Crea una nueva tarea o evento.
-
-PUT /api/v1/tasks/{taskId}
-Actualiza una tarea existente.
-
-DELETE /api/v1/tasks/{taskId}
-Elimina una tarea.
+POST
+GET 
+POST
+PUT
+DELETE
 
 Licencia
 Este proyecto está bajo la Licencia MIT. Puedes ver más detalles en el archivo LICENSE.
