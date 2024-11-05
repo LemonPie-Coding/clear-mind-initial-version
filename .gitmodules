@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = https://github.com/LemonPie-Coding/GTD.git
+[submodule "back"]
+	path = back
+	url = https://github.com/LemonPie-Coding/GTD-backend.git
