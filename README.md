@@ -3,7 +3,7 @@ Descripción
 Clear Mind es una aplicación diseñada para facilitar la organización de actividades y eventos diarios para personas que tienen dificultades para organizar su día a día. Está basada en el método Getting Things Done (GTD), y ofrece una serie de herramientas poderosas como agendamiento de tareas, calendarios, recordatorios, y eventos a largo plazo. Además, permite generar listas de tareas con procedimientos que pueden ser creadas con la ayuda de inteligencia artificial.
 
 Haga click en la imagen para ver un test de la aplicación
-[![Video de prueba][(https://i.vimeocdn.com/video/1026470184.jpg)](https://vimeo.com/1026470184?share=copy#t=0)](https://vimeo.com/1027258580?share=copy)
+[![Vista previa del video](https://vimeo.com/1027258580/thumbnail.png)](https://vimeo.com/1027258580)
 
 Características:
 Agendamiento de tareas: Organiza tu día con facilidad, asignando tareas a un calendario y configurando recordatorios.
